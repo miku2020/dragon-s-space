@@ -12,7 +12,7 @@ public class RouteFollow : MonoBehaviour
 
     private float tparam;
     private Vector2 EnemyPos;
-    private float speedModifier;
+    public float speedModifier;
     private bool coroutineAllowed;
 
 
@@ -21,7 +21,6 @@ public class RouteFollow : MonoBehaviour
     {
         routeToGo = 0;
         tparam = 0f;
-        speedModifier = 0.5f;
         coroutineAllowed = true;
     }
 
