@@ -14,9 +14,9 @@ public class Bullet : MonoBehaviour
     [Header("Vedä oma Riggidbody2D tähän")]
     public Rigidbody2D rb;
     [Header("Ammuksen etäisyys")]
-    public float range = 0;
-    [Header("Ammuksen Vahingon määrä (ei ole käytös)")]
-    public float damage = 0;
+    public float range = 0f;
+    [Header("Ammuksen Vahingon määrä")]
+    public float damage = 0f;
 
   
     void Start()
@@ -31,14 +31,26 @@ public class Bullet : MonoBehaviour
         Destroy(gameObject, range);
     }
 
-    /*private void OnTriggerEnter(Collider hitInfo) 
+    private void OnTriggerEnter2D(Collider2D hitInfo) 
     {
-        EnemyHp Enemyhealth = hitInfo.GetComponent<EnemyHp>();
-        if (Enemyhealth != null)
+        if (hitInfo.tag == "Enemy")
         {
-            Enemyhealth.TakeDamage(damage);
+            EnemyHP Enemyhealth = hitInfo.GetComponent<EnemyHP>();
+            if (Enemyhealth != null)
+            {
+                Enemyhealth.TakeDamage(damage);
+            }
+            Destroy(gameObject);
         }
-        Destroy(gameObject);
-    }*/
+        else if (hitInfo.tag == "Player")
+        {
+            HP_Logic Enemyhealth = hitInfo.GetComponent<HP_Logic>();
+            if (Enemyhealth != null)
+            {
+                Enemyhealth.TakeDamage(damage);
+            }
+            Destroy(gameObject);
+        }
+    }
 }
 //Mikael Huhtakangas 

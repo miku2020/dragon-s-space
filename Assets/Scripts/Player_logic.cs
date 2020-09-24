@@ -29,3 +29,4 @@ public class Player_logic : MonoBehaviour
         rb2d.MovePosition(rb2d.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 }
+//Mikael Huhtakangas 
