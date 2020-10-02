@@ -4,12 +4,22 @@ using UnityEngine;
 
 public class EnemyHP : MonoBehaviour
 {
+
+    private bool flickerbool;
+    private int i = 0;
+    [Header("kuinka kauan flikkeröi")]
+    public float flickerT;
+    [Header("kuinka nopeasti flikkeröi")]
+    public float flickerR;
+
     public float Health = 100f;
     public float CollisionDamage = 1f;
 
     public void TakeDamage(float damage)
     {
         Health -= damage;
+        flickerbool = true;
+        StartCoroutine(Flicker());
         if (Health <= 0)
         {
             Destroy(gameObject);
@@ -27,5 +37,24 @@ public class EnemyHP : MonoBehaviour
             TakeDamage(CollisionDamage);
         }
     }
+
+    IEnumerator Flicker()
+    {
+        var fmaterial = GetComponent<SpriteRenderer>();
+        var collider = GetComponent<Collider2D>();
+        GetComponent<Collider2D>().enabled = false;
+
+        for (i = 0; i < flickerT; i++)
+        {
+            fmaterial.color = new Color(1.0f, 1.0f, 1.0f, 1.0f);          
+            yield return new WaitForSeconds(flickerR);
+            fmaterial.color = new Color(1.0f, 1.0f, 1.0f, 1.0f);
+            yield return new WaitForSeconds(flickerR);
+        }
+
+        flickerbool = false;
+        GetComponent<Collider2D>().enabled = true;
+    }
+
 }
 //Mikael Huhtakangas 

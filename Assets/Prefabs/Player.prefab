@@ -197,7 +197,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02257b46ea9fed146a288d0409b50030, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Health: 4
+  Lohari: {fileID: 2077655822129959415}
+  flickerT: 0
+  flickerR: 0
+  Health: 6
   GameOverScript: {fileID: 0}
   Score: 0
 --- !u!58 &-4965833022127795268
@@ -213,6 +216,6 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.009450674, y: 0}
   serializedVersion: 2
-  m_Radius: 0.25
+  m_Radius: 0.25743508
