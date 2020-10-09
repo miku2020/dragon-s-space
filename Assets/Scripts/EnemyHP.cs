@@ -46,9 +46,9 @@ public class EnemyHP : MonoBehaviour
 
         for (i = 0; i < flickerT; i++)
         {
-            fmaterial.color = new Color(1.0f, 1.0f, 1.0f, 1.0f);          
+            fmaterial.color = new Color32(255, 0, 0 , 255);          
             yield return new WaitForSeconds(flickerR);
-            fmaterial.color = new Color(1.0f, 1.0f, 1.0f, 1.0f);
+            fmaterial.color = new Color32(0, 0, 0, 255);
             yield return new WaitForSeconds(flickerR);
         }
 

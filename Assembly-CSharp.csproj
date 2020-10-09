@@ -58,11 +58,15 @@
     <Compile Include="Assets\Scripts\RouteFollow.cs" />
     <Compile Include="Assets\Scripts\Map_lerp.cs" />
     <Compile Include="Assets\Scripts\Route.cs" />
-    <Compile Include="Assets\Scripts\Player_logic.cs" />
-    <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Scripts\HP_Logic.cs" />
-    <Compile Include="Assets\Scripts\EnemyHP.cs" />
     <Compile Include="Assets\Scripts\GAME_OVER.cs" />
+    <Compile Include="Assets\UI\UIScripts\OptionsMenu.cs" />
+    <Compile Include="Assets\Scripts\Player_logic.cs" />
+    <Compile Include="Assets\UI\UIScripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\EnemyHP.cs" />
+    <Compile Include="Assets\Scripts\Bullet.cs" />
+    <Compile Include="Assets\Scripts\Turret_logIIc.cs" />
+    <Compile Include="Assets\Scripts\Neck.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

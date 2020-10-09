@@ -75,7 +75,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 6
   m_Sprite: {fileID: 21300000, guid: 1c8e3b015c1510f42a7c36ee2d9ddbf1, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -112,6 +112,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2bac7aed3c0a1cf48b70f1ebd2dd495b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  flickerT: 0
+  flickerR: 0
   Health: 4
   CollisionDamage: 4
 --- !u!58 &6416430667061372280
