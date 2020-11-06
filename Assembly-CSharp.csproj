@@ -55,7 +55,9 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Neck.cs" />
     <Compile Include="Assets\Scripts\RouteFollow.cs" />
+    <Compile Include="Assets\Scripts\Turret_logIIc.cs" />
     <Compile Include="Assets\Scripts\Map_lerp.cs" />
     <Compile Include="Assets\Scripts\Route.cs" />
     <Compile Include="Assets\Scripts\HP_Logic.cs" />
@@ -64,9 +66,8 @@
     <Compile Include="Assets\Scripts\Player_logic.cs" />
     <Compile Include="Assets\UI\UIScripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\EnemyHP.cs" />
+    <Compile Include="Assets\Scripts\Spawner.cs" />
     <Compile Include="Assets\Scripts\Bullet.cs" />
-    <Compile Include="Assets\Scripts\Turret_logIIc.cs" />
-    <Compile Include="Assets\Scripts\Neck.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
