@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 5af45c9d4b55f164b97c6a92a96e509e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1762037252520028704
+    second: Mini_boss_White_Sprite_0
+  - first:
+      213: 4378793497502047034
+    second: Mini_boss_White_Sprite_1
+  - first:
+      213: 6891372273804827431
+    second: Mini_boss_White_Sprite_2
+  - first:
+      213: 6255324837867625731
+    second: Mini_boss_White_Sprite_3
+  - first:
+      213: -7299618144237119682
+    second: Mini_boss_White_Sprite_4
+  - first:
+      213: 3880952887928522671
+    second: Mini_boss_White_Sprite_5
+  - first:
+      213: -4099372433296747261
+    second: Mini_boss_White_Sprite_6
+  - first:
+      213: -1222998785062192035
+    second: Mini_boss_White_Sprite_7
+  - first:
+      213: -6756699999706586308
+    second: Mini_boss_White_Sprite_8
+  - first:
+      213: -753859719810097497
+    second: Mini_boss_White_Sprite_9
+  - first:
+      213: -313798625567505847
+    second: Mini_boss_White_Sprite_10
+  - first:
+      213: -5460307348506642361
+    second: Mini_boss_White_Sprite_11
+  - first:
+      213: -1125501654667186383
+    second: Mini_boss_White_Sprite_12
+  - first:
+      213: -6239160438417652113
+    second: Mini_boss_White_Sprite_13
+  - first:
+      213: 9081022847273689690
+    second: Mini_boss_White_Sprite_14
+  - first:
+      213: -6846606672425011398
+    second: Mini_boss_White_Sprite_15
+  - first:
+      213: 5807067879894205806
+    second: Mini_boss_White_Sprite_16
+  - first:
+      213: -180751232245567854
+    second: Mini_boss_White_Sprite_17
+  - first:
+      213: -8522140370364461404
+    second: Mini_boss_White_Sprite_18
+  - first:
+      213: -2950743205292226440
+    second: Mini_boss_White_Sprite_19
+  - first:
+      213: -3992668304374934683
+    second: Mini_boss_White_Sprite_20
+  - first:
+      213: 2858629576893888311
+    second: Mini_boss_White_Sprite_21
+  - first:
+      213: 3304952579298406478
+    second: Mini_boss_White_Sprite_22
+  - first:
+      213: -7933003700698623071
+    second: Mini_boss_White_Sprite_23
+  - first:
+      213: -6896024088038146016
+    second: Mini_boss_White_Sprite_24
+  - first:
+      213: -4356866758105638577
+    second: Mini_boss_White_Sprite_25
+  - first:
+      213: -8076005027294995072
+    second: Mini_boss_White_Sprite_26
+  - first:
+      213: -1268819772151490065
+    second: Mini_boss_White_Sprite_27
+  - first:
+      213: -4554210671848139431
+    second: Mini_boss_White_Sprite_28
+  - first:
+      213: -387611295202329541
+    second: Mini_boss_White_Sprite_29
+  - first:
+      213: 4272358494460333465
+    second: Mini_boss_White_Sprite_30
+  - first:
+      213: -7248107327855665329
+    second: Mini_boss_White_Sprite_31
+  - first:
+      213: 7362135361289131582
+    second: Mini_boss_White_Sprite_32
+  - first:
+      213: 4150128973654309645
+    second: Mini_boss_White_Sprite_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mini_boss_White_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 238
+        width: 198
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5d98a547cfb87e0800000000000000
+      internalID: -1762037252520028704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_boss_White_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 238
+        width: 120
+        height: 138
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b56637c7994cc30800000000000000
+      internalID: 4378793497502047034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_boss_White_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 242
+        width: 132
+        height: 126
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bdc1b229213af50800000000000000
+      internalID: 6891372273804827431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_boss_White_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 248
+        width: 156
+        height: 126
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d17c34cc06fc650800000000000000
+      internalID: 6255324837867625731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_boss_White_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 92
+        width: 200
+        height: 92
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c32afa519070fe0800000000000000
+      internalID: -1222998785062192035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_boss_White_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 90
+        width: 152
+        height: 92
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420b0800d925abf0800000000000000
+      internalID: -313798625567505847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_boss_White_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 140
+        height: 76
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7487ecf75671934b0800000000000000
+      internalID: -5460307348506642361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mini_boss_White_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 90
+        width: 188
+        height: 96
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66027343ac0a69a0800000000000000
+      internalID: -6239160438417652113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
