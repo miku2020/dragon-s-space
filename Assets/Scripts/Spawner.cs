@@ -6,7 +6,7 @@ public class Spawner : MonoBehaviour
 {
 
     public GameObject EnemyObject;
-    public GameObject RouteObject;
+    public Transform RouteObject;
     public float Timer;
     public int amount;
     private int spawned;

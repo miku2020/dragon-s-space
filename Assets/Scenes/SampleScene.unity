@@ -130,38 +130,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2081238894}
     m_Modifications:
-    - target: {fileID: 1591850533295499638, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1591850533295499638, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1591850533295499638, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 1.43
-      objectReference: {fileID: 0}
-    - target: {fileID: 1591850533295499638, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.32
-      objectReference: {fileID: 0}
-    - target: {fileID: 1591850533295499639, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_SortingLayerID
-      value: 1714159869
-      objectReference: {fileID: 0}
-    - target: {fileID: 1591850533295499639, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_SortingLayer
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1591850533295499639, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_SortingOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1591850533295499639, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 2323917800338813707, guid: d565e1dc36e74604691dc6c7ba01475b, type: 3}
     - target: {fileID: 1591850533587869249, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9.14
@@ -172,7 +140,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1591850533587869249, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.371503
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1591850533587869249, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
       propertyPath: m_LocalRotation.x
@@ -209,26 +177,6 @@ PrefabInstance:
     - target: {fileID: 1591850533587869251, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
       propertyPath: m_Name
       value: Turret_Zone
-      objectReference: {fileID: 0}
-    - target: {fileID: 1933624358823632119, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_SortingLayerID
-      value: 1714159869
-      objectReference: {fileID: 0}
-    - target: {fileID: 1933624358823632119, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_SortingLayer
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1933624358823632119, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 6219008580301899996, guid: d565e1dc36e74604691dc6c7ba01475b, type: 3}
-    - target: {fileID: 9063585552575171442, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 9063585552575171442, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
@@ -300,9 +248,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1481983701
-  m_SortingLayer: 1
-  m_SortingOrder: -1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 6a4b3ee0dd1b4674889ca35f6f53c87c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -785,7 +733,7 @@ GameObject:
   m_Layer: 0
   m_Name: Spawner
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -796,12 +744,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 858089212}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 19.266008, y: 6.5792966, z: -59.17424}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 19.266008, y: 5.579297, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_Father: {fileID: 2081238894}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &858089214
 MonoBehaviour:
@@ -816,7 +764,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EnemyObject: {fileID: 1745666493525054770, guid: 6dbd83b438f4fa245bd357043ff8e9ea, type: 3}
-  RouteObject: {fileID: 5793345651024892052, guid: 1776e06d128c8594bb11de01a2f3793b, type: 3}
+  RouteObject: {fileID: 858089213}
   Timer: 1
   amount: 3
 --- !u!1 &1019739951
@@ -1064,9 +1012,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1481983701
-  m_SortingLayer: 1
-  m_SortingOrder: -3
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 9af9ff97ca7930040a57d865b054fd92, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1186,7 +1134,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1792487496}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0291996, y: 0.01, z: -9.79035}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1610471663}
@@ -1229,9 +1177,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1481983701
-  m_SortingLayer: 1
-  m_SortingOrder: -1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 6714760ec80ebe947b2e98432acd4a53, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

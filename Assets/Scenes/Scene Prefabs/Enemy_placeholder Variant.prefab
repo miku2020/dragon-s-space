@@ -11,6 +11,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy_placeholder Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 9092597244530139939, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
+      propertyPath: routes.Array.data[0]
+      value: 
+      objectReference: {fileID: 5793345651024892055, guid: 1776e06d128c8594bb11de01a2f3793b, type: 3}
+    - target: {fileID: 9092597244530139939, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9092597244530139949, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
       propertyPath: m_LocalPosition.x
       value: 24.41
