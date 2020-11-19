@@ -32,6 +32,6 @@ public class Spawner : MonoBehaviour
 
     public void Spawn() 
     {
-        Instantiate(EnemyObject, RouteObject.transform.parent);
+        Instantiate(EnemyObject, EnemyObject.transform.parent = RouteObject);
     }
 }
