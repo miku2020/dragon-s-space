@@ -1,6 +1,4 @@
-# Not sure if this is safe to ignore at this point. Did a test deleting files in the root, excluding directories and stuff vanished from the editor
-# /[Ll]ibrary/
-
+/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -33,11 +31,10 @@ ExportedObj/
 *.opendb
 *.VC.db
 
-# Not sure if these are safe to ignore right now
 # Unity3D generated meta files
-#*.pidb.meta
-#*.pdb.meta
-#*.mdb.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
