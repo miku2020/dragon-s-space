@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 64427b58168e4f24287a560abe780107
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 822420408384697126
+    second: dragon osat_0
+  - first:
+      213: 177911224266059970
+    second: dragon osat_1
+  - first:
+      213: 6008306277646827357
+    second: dragon osat_2
+  - first:
+      213: 1394300612903116810
+    second: dragon osat_3
+  - first:
+      213: 4377831484489773265
+    second: dragon osat_4
+  - first:
+      213: -7856514365770583009
+    second: dragon osat_5
+  - first:
+      213: -7799926923636710846
+    second: dragon osat_6
+  - first:
+      213: -7580176430494435214
+    second: dragon osat_7
+  - first:
+      213: -2337307914443627178
+    second: dragon osat_8
+  - first:
+      213: 4072500238000038841
+    second: dragon osat_9
+  - first:
+      213: 4520254348446723914
+    second: dragon osat_10
+  - first:
+      213: 4134559106615548563
+    second: dragon osat_11
+  - first:
+      213: 270016705713770299
+    second: dragon osat_12
+  - first:
+      213: 3936485853861484048
+    second: dragon osat_13
+  - first:
+      213: -4928264261630268723
+    second: dragon osat_14
+  - first:
+      213: -1212866306856358738
+    second: dragon osat_15
+  - first:
+      213: 5804673329574926220
+    second: dragon osat_16
+  - first:
+      213: -4608586792554911163
+    second: dragon osat_17
+  - first:
+      213: 703489000600662929
+    second: dragon osat_18
+  - first:
+      213: 2490869147899717928
+    second: dragon osat_19
+  - first:
+      213: -3102459960217828577
+    second: dragon osat_20
+  - first:
+      213: 2536434521006094385
+    second: dragon osat_21
+  - first:
+      213: -7066953965994335940
+    second: dragon osat_22
+  - first:
+      213: 7463158917896732820
+    second: dragon osat_23
+  - first:
+      213: -226122023083065766
+    second: dragon osat_24
+  - first:
+      213: 8687980726814545035
+    second: dragon osat_25
+  - first:
+      213: -1457328136600958215
+    second: dragon osat_26
+  - first:
+      213: 387570990250038926
+    second: dragon osat_27
+  - first:
+      213: 3085961914803575112
+    second: dragon osat_28
+  - first:
+      213: -2378495672054893949
+    second: dragon osat_29
+  - first:
+      213: -3668693335940364321
+    second: dragon osat_30
+  - first:
+      213: -431163155769931655
+    second: dragon osat_31
+  - first:
+      213: -5628971168563697163
+    second: dragon osat_32
+  - first:
+      213: 5614533567570626563
+    second: dragon osat_33
+  - first:
+      213: -8732481270662114665
+    second: dragon osat_34
+  - first:
+      213: 403898413474103443
+    second: dragon osat_35
+  - first:
+      213: -6253483747411026915
+    second: dragon osat_36
+  - first:
+      213: 6759899729824809444
+    second: dragon osat_37
+  - first:
+      213: 6300398492690604338
+    second: dragon osat_38
+  - first:
+      213: 9180143954036692411
+    second: dragon osat_39
+  - first:
+      213: 7107375817887679285
+    second: dragon osat_40
+  - first:
+      213: -3958398173301302416
+    second: dragon osat_41
+  - first:
+      213: 7401357452238143619
+    second: dragon osat_42
+  - first:
+      213: 7525353253944233465
+    second: dragon osat_43
+  - first:
+      213: 5217349112457839674
+    second: dragon osat_44
+  - first:
+      213: 6375460469312512711
+    second: dragon osat_45
+  - first:
+      213: 588541181241382392
+    second: dragon osat_46
+  - first:
+      213: 2421334031583481036
+    second: dragon osat_47
+  - first:
+      213: -248105041635637610
+    second: dragon osat_48
+  - first:
+      213: -2193339296530895992
+    second: dragon osat_49
+  - first:
+      213: -3219134921981923271
+    second: dragon osat_50
+  - first:
+      213: -2143768271111498737
+    second: dragon osat_51
+  - first:
+      213: -8095015073982333061
+    second: dragon osat_52
+  - first:
+      213: -7680416532192981797
+    second: dragon osat_53
+  - first:
+      213: -231277881597851438
+    second: dragon osat_54
+  - first:
+      213: -5668512174546149471
+    second: dragon osat_55
+  - first:
+      213: -6483844994514905701
+    second: dragon osat_56
+  - first:
+      213: 4375949902563371310
+    second: dragon osat_57
+  - first:
+      213: 7677301508960863798
+    second: dragon osat_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon osat_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 388
+        width: 168
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6233dc90103d96b00800000000000000
+      internalID: 822420408384697126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon osat_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 413
+        width: 163
+        height: 76
+      alignment: 9
+      pivot: {x: 0.53, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13085d8a19d1f4d0800000000000000
+      internalID: -3102459960217828577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon osat_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 412
+        width: 168
+        height: 68
+      alignment: 9
+      pivot: {x: 0.58, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1383b9c12c9333320800000000000000
+      internalID: 2536434521006094385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon osat_25
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 428
+        width: 168
+        height: 52
+      alignment: 9
+      pivot: {x: 0.6, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84983da078e19870800000000000000
+      internalID: 8687980726814545035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon osat_26
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 396
+        width: 172
+        height: 80
+      alignment: 9
+      pivot: {x: 0.62, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fac7b0f7c786cbe0800000000000000
+      internalID: -1457328136600958215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon osat_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 234
+        width: 92
+        height: 110
+      alignment: 9
+      pivot: {x: 0.2582512, y: 0.16689342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5d49b061bea2800800000000000000
+      internalID: 588541181241382392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon osat_47
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 244
+        width: 84
+        height: 100
+      alignment: 9
+      pivot: {x: 0.13593765, y: 0.17333649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc0913197e4a9120800000000000000
+      internalID: 2421334031583481036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon osat_48
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 254
+        width: 84
+        height: 100
+      alignment: 9
+      pivot: {x: 0.09456671, y: 0.15248565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696035677cd8e8cf0800000000000000
+      internalID: -248105041635637610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon osat_49
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 254
+        width: 88
+        height: 96
+      alignment: 9
+      pivot: {x: 0.08930137, y: 0.21040504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bee56d781bf81e0800000000000000
+      internalID: -2193339296530895992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon osat_50
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 254
+        width: 84
+        height: 100
+      alignment: 9
+      pivot: {x: 0.13593765, y: 0.16638641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930763b18d55353d0800000000000000
+      internalID: -3219134921981923271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon osat_58
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 62
+        width: 160
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636ce2bdb014b8a60800000000000000
+      internalID: 7677301508960863798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
