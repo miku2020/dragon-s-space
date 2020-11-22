@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - Bullet
+  - Boss
   layers:
   - Default
   - TransparentFX
@@ -15,7 +16,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Player
   - 
   - 
   - 
@@ -48,4 +49,10 @@ TagManager:
     locked: 0
   - name: Everything_else
     uniqueID: 1714159869
+    locked: 0
+  - name: Boss
+    uniqueID: 1333857189
+    locked: 0
+  - name: fx
+    uniqueID: 3733388831
     locked: 0

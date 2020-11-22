@@ -23,7 +23,7 @@ public class Map_lerp : MonoBehaviour
     [Header("Päättymis sijainti")]
     public Vector2 endpos;
 
-    private bool shouldlerp = false;
+    public bool shouldlerp = false;
     float L_Score;
    // int Score;
      
