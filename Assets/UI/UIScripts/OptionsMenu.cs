@@ -11,7 +11,7 @@ public class OptionsMenu : MonoBehaviour
 
     void Start()
     {
-        slider.value = PlayerPrefs.GetFloat("volume", 0.75f);
+        slider.value = PlayerPrefs.GetFloat("volume", 0.75f);        
     }
     public void SetVolume(float sliderValue)
     {

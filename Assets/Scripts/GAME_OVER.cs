@@ -23,7 +23,7 @@ public class GAME_OVER : MonoBehaviour
             if (GameOver == true)
             {
                 Debug.Log("GameOver");
-                GetComponent<Renderer>().enabled = true;
+                //GetComponent<Renderer>().enabled = true;
                 shouldupdate = false;
             }
         }
