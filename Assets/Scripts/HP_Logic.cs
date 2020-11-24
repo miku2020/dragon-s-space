@@ -65,7 +65,7 @@ public class HP_Logic : MonoBehaviour
 
         for (i = 0; i < flickerT; i++)
         {
-            fmaterial.color = new Color(1.0f, 1.0f, 1.0f, 0.5f);
+            fmaterial.color = new Color(1.0f, 1.0f, 1.0f, 0f);
             yield return new WaitForSeconds(flickerR);
             fmaterial.color = new Color(1.0f, 1.0f, 1.0f, 1.0f);
             yield return new WaitForSeconds(flickerR);
