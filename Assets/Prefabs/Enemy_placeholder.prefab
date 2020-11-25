@@ -304,7 +304,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   routes:
-  - {fileID: 5793345651024892055, guid: 1776e06d128c8594bb11de01a2f3793b, type: 3}
+  - {fileID: 0}
   speedModifier: 0.15
 --- !u!114 &-5524891011489229154
 MonoBehaviour:
@@ -322,6 +322,8 @@ MonoBehaviour:
   flickerR: 0.25
   Health: 4
   CollisionDamage: 4
+  DropItem: {fileID: 3441500433448472011, guid: 5c1498dfbe304254b918572289f49ac2, type: 3}
+  Ownpos: {fileID: 9092597244530139949}
 --- !u!61 &3318590856020224053
 BoxCollider2D:
   m_ObjectHideFlags: 0

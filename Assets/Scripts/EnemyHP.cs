@@ -15,6 +15,10 @@ public class EnemyHP : MonoBehaviour
     public float Health = 100f;
     public float CollisionDamage = 1f;
 
+    public GameObject DropItem;
+    public Transform Ownpos;
+    public Transform MapObject;
+
     public void TakeDamage(float damage)
     {
         Health -= damage;
@@ -22,6 +26,7 @@ public class EnemyHP : MonoBehaviour
         StartCoroutine(Flicker());
         if (Health <= 0)
         {
+            Instantiate(DropItem, Ownpos.position, Ownpos.rotation, DropItem.transform.parent = MapObject);
             Destroy(gameObject);
         }
     }
