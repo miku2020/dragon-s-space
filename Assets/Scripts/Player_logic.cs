@@ -22,6 +22,14 @@ public class Player_logic : MonoBehaviour
             Instantiate(Bullet, Firepoint.position, Firepoint.rotation);
         }
     }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag.Equals("Seed"))
+        {
+            SeedScore.SeedAmount += 1;//can be change for more points// 
+            Destroy(other.gameObject);
+        }
+    }
 
 
     void FixedUpdate()
