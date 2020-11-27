@@ -27,7 +27,7 @@ public class Player_logic : MonoBehaviour
     {
         if (other.tag.Equals("Seed"))
         {
-            SeedCounter.SeedAmount += 1;// Score numero//
+            SeedCounter.SeedAmount += 1;// Score numero Can Chenge//
             Destroy(other.gameObject);
         }
     }

@@ -8,16 +8,16 @@ public class SeedCounter : MonoBehaviour
     public static int SeedAmount;
     private TextMeshProUGUI Seedcounter;
 
-     void Start()
+    void Start()
     {
         Seedcounter = GetComponent<TextMeshProUGUI>();
         SeedAmount = 0;
 
     }
 
-     void Update()
+    void Update()
     {
-        Seedcounter.text = "Score:" + SeedAmount; 
+        Seedcounter.text = "Score:" + SeedAmount;
     }
 
 
