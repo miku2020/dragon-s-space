@@ -23,6 +23,15 @@ public class Player_logic : MonoBehaviour
         }
     }
 
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag.Equals("Seed"))
+        {
+            SeedCounter.SeedAmount += 1;// Score numero//
+            Destroy(other.gameObject);
+        }
+    }
+
 
     void FixedUpdate()
     {
