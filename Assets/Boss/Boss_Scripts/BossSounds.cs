@@ -11,6 +11,7 @@ public class BossSounds : MonoBehaviour
     public AudioSource shoot_headAttack_Sound;
     public AudioSource handRotating_Sound;
     public AudioSource hitReaction_Sound;
+    public AudioSource death_Sound;
 
     public void ShootTentacleAudio()
     {
@@ -42,5 +43,9 @@ public class BossSounds : MonoBehaviour
         hitReaction_Sound.Play();
     }
 
+    public void DeathAudio()
+    {
+        death_Sound.Play();
+    }
 
 }
