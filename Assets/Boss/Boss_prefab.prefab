@@ -138953,7 +138953,7 @@ MonoBehaviour:
   shoot_headAttack_Sound: {fileID: 1514337846598057658}
   handRotating_Sound: {fileID: 1514337847653970490}
   hitReaction_Sound: {fileID: 1514337847709832750}
-  death_Sound: {fileID: 0}
+  death_Sound: {fileID: 3243700594098285483}
 --- !u!1 &1514337848038898599
 GameObject:
   m_ObjectHideFlags: 0
