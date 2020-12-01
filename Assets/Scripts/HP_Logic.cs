@@ -33,7 +33,7 @@ public class HP_Logic : MonoBehaviour
     {
         Health -= damage;
         flickerbool = true;
-        StartCoroutine(Flicker());
+       // StartCoroutine(Flicker());
         if (Health <= 0)
         {
             
