@@ -6043,6 +6043,10 @@ PrefabInstance:
       propertyPath: GameOverScript
       value: 
       objectReference: {fileID: 1159695192}
+    - target: {fileID: 2077655822639771280, guid: 27e1146cb1a8a514e89cecd14ffe4aa8, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 2077655822639771309, guid: 27e1146cb1a8a514e89cecd14ffe4aa8, type: 3}
       propertyPath: m_Name
       value: Player

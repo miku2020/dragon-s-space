@@ -285,7 +285,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.92, y: 1.1}
+  m_Size: {x: 1.6, y: 0.84}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -367,7 +367,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.68, y: 1.28}
+  m_Size: {x: 1.68, y: 0.98}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -484,7 +484,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.6, y: 0.84}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -572,6 +572,7 @@ MonoBehaviour:
   Firepoint: {fileID: 2077655821633171998}
   Bullet: {fileID: 8862253506899598582, guid: e33d0379080a78b4f800785b3cbdff63, type: 3}
   animator: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!50 &2077655822639771280
 Rigidbody2D:
   serializedVersion: 4
