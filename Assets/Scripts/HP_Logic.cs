@@ -21,6 +21,10 @@ public class HP_Logic : MonoBehaviour
     [Header("Score. jätä tyhjäksi")]
     public int Score;
 
+    // for blinking and not taking damage
+    public Animator animator;
+    float timer = 0;
+
 
 
     private void Awake()
@@ -28,18 +32,42 @@ public class HP_Logic : MonoBehaviour
         
     }
 
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+        
+    }
+
+    private void Update()
+    {
+        timer -= Time.deltaTime;
+        if (timer <= 0)
+        {
+            flickerbool = false;
+        }
+        else
+        {
+            flickerbool = true;
+        }
+    }
+
 
     public void TakeDamage(float damage)
     {
-        Health -= damage;
-        flickerbool = true;
-       // StartCoroutine(Flicker());
-        if (Health <= 0)
+        if (flickerbool == false)
         {
+            Health -= damage;
+            StartCoroutine("Damageless");
+            timer = flickerT;
+        }
             
+        //StartCoroutine(Flicker());
+        if (Health <= 0)
+        {            
             GameOverScript.GameOver = true;
             Debug.Log("final Score: " + Score);
         }
+        
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -65,15 +93,25 @@ public class HP_Logic : MonoBehaviour
 
         for (i = 0; i < flickerT; i++)
         {
+           
             fmaterial.color = new Color(1.0f, 1.0f, 1.0f, 0f);
             yield return new WaitForSeconds(flickerR);
             fmaterial.color = new Color(1.0f, 1.0f, 1.0f, 1.0f);
-            yield return new WaitForSeconds(flickerR);
-        }
-
+            yield return new WaitForSeconds(flickerR);                    
+                        
+        }       
+        
         flickerbool = false;
         GetComponent<Collider2D>().enabled = true;
     }
+
+    IEnumerator Damageless()
+    {
+        animator.SetBool("isBlinking", true);
+        yield return new WaitForSecondsRealtime(flickerT);
+        animator.SetBool("isBlinking", false);
+    }
+
 
 }
 //Mikael Huhtakangas 

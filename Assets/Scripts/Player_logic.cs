@@ -12,6 +12,13 @@ public class Player_logic : MonoBehaviour
 
     Vector2 movement;
 
+    public Animator animator;
+
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
+
     private void Update()
     {
         movement.x = Input.GetAxisRaw("Horizontal");
@@ -20,6 +27,7 @@ public class Player_logic : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Instantiate(Bullet, Firepoint.position, Firepoint.rotation);
+            animator.SetTrigger("Shoot");
         }
     }
 
