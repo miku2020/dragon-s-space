@@ -54,7 +54,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2894814355575418335}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.51, y: 0.92, z: 0}
+  m_LocalPosition: {x: 10.51, y: -8.44, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4451473140148468409}
@@ -85,7 +85,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3656260425109381489}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.3755875, y: -3.8142545, z: 7.8798757}
+  m_LocalPosition: {x: 9.49, y: -3.8142545, z: 7.8798757}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4107548033016504787}
@@ -136,7 +136,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5967494646362977380}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.01, y: -4.58, z: 0}
+  m_LocalPosition: {x: -5.01, y: -7.52, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4451473140148468409}
@@ -152,7 +152,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8818705287623839425}
   m_Layer: 0
-  m_Name: SpawnObject
+  m_Name: SpawnRoute1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -198,7 +198,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8707791898069164147}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -18.01, y: 3.56, z: 0}
+  m_LocalPosition: {x: -18.01, y: 6.06, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4451473140148468409}
@@ -213,12 +213,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -5524891011489229154, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
       propertyPath: Health
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -5524891011489229154, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
       propertyPath: MapObject
       value: 
       objectReference: {fileID: 8818705287623839425}
+    - target: {fileID: -5524891011489229154, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
+      propertyPath: flickerT
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9092597244530139936, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
       propertyPath: m_Name
       value: Enemy_placeholder
@@ -227,13 +231,17 @@ PrefabInstance:
       propertyPath: routes.Array.data[0]
       value: 
       objectReference: {fileID: 4451473140148468409}
+    - target: {fileID: 9092597244530139939, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
+      propertyPath: speedModifier
+      value: 0.25
+      objectReference: {fileID: 0}
     - target: {fileID: 9092597244530139949, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.02
       objectReference: {fileID: 0}
     - target: {fileID: 9092597244530139949, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.15
+      value: 6.51
       objectReference: {fileID: 0}
     - target: {fileID: 9092597244530139949, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
       propertyPath: m_LocalPosition.z
