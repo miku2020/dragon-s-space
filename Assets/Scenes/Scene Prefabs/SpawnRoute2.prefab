@@ -47,6 +47,10 @@ PrefabInstance:
       propertyPath: Health
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: -5524891011489229154, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
+      propertyPath: MapObject
+      value: 
+      objectReference: {fileID: 1403158018501954512}
     - target: {fileID: 9092597244530139936, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
       propertyPath: m_Name
       value: Enemy_placeholder
