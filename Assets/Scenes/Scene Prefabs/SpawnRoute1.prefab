@@ -221,7 +221,7 @@ PrefabInstance:
       objectReference: {fileID: 8818705287623839425}
     - target: {fileID: -5524891011489229154, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
       propertyPath: flickerT
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 9092597244530139936, guid: 2e37fe793270c3748b5e7adb7a3147ed, type: 3}
       propertyPath: m_Name
