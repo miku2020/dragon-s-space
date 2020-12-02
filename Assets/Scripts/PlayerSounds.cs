@@ -5,19 +5,34 @@ using UnityEngine.Audio;
 
 public class PlayerSounds : MonoBehaviour
 {
-    AudioSource audioSource;
+    public AudioSource audioSource;
+    public AudioClip playerShootSound;
     public AudioClip pickUpSound;
     public AudioClip takeDamageSound;
 
-    public void itemPickupAudio()
+    [Range(0f, 1f)]
+    public float playerShootSoundVolume;
+
+    [Range(0f, 1f)]
+    public float itemPickupVolume;
+
+    [Range(0f, 1f)]
+    public float takeDamageSoundVolume;
+
+    //private AudioSource pickUpSource;
+
+    public void ItemPickupAudio()
     {
-        audioSource.clip = pickUpSound;
-        audioSource.Play();
+        audioSource.PlayOneShot(pickUpSound, itemPickupVolume);
     }
 
-    public void playerTakeDamageAudio()
+    public void PlayerTakeDamageAudio()
     {
-        audioSource.clip = takeDamageSound;
-        audioSource.Play();
+        audioSource.PlayOneShot(takeDamageSound, takeDamageSoundVolume);
+    }
+
+    public void PlayerShootAudio()
+    {
+        audioSource.PlayOneShot(playerShootSound, playerShootSoundVolume);
     }
 }

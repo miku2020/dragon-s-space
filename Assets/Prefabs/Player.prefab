@@ -685,9 +685,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: 2eebf7d39e17cb74caaef503e0c996c0, type: 2}
-  m_audioClip: {fileID: 8300000, guid: de778cb3d240e4848a5104781a3f38d0, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 0.807
+  m_Volume: 0.95
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -783,5 +783,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6148d4bfb3978314c8b75839b5c08005, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  audioSource: {fileID: 3040188673217325449}
+  playerShootSound: {fileID: 8300000, guid: de778cb3d240e4848a5104781a3f38d0, type: 3}
   pickUpSound: {fileID: 8300000, guid: d2126d29bcaab374288b185f80b9bb77, type: 3}
   takeDamageSound: {fileID: 8300000, guid: e809981e91f06d04fa97ecfa6d597721, type: 3}
+  playerShootSoundVolume: 0.869
+  itemPickupVolume: 0.409
+  takeDamageSoundVolume: 0.931

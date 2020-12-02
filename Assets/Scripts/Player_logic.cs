@@ -30,6 +30,7 @@ public class Player_logic : MonoBehaviour
             gameObject.GetComponent<AudioSource>().Play();
             Instantiate(Bullet, Firepoint.position, Firepoint.rotation);
             animator.SetTrigger("Shoot");
+            gameObject.GetComponent<PlayerSounds>().PlayerShootAudio();
         }
     }
 
@@ -39,6 +40,7 @@ public class Player_logic : MonoBehaviour
         {
             SeedCounter.SeedAmount += 1;// Score numero Can Chenge//
             Destroy(other.gameObject);
+            gameObject.GetComponent<PlayerSounds>().ItemPickupAudio();
         }
     }
 

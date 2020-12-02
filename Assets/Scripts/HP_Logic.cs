@@ -59,6 +59,7 @@ public class HP_Logic : MonoBehaviour
             Health -= damage;
             StartCoroutine("Damageless");
             timer = flickerT;
+            gameObject.GetComponent<PlayerSounds>().PlayerTakeDamageAudio();
         }
             
         //StartCoroutine(Flicker());
@@ -82,7 +83,6 @@ public class HP_Logic : MonoBehaviour
         {
             Score++;
             Debug.Log("Score: " + Score);
-            gameObject.GetComponent<PlayerSounds>().playerTakeDamageAudio();
         }
     }
 

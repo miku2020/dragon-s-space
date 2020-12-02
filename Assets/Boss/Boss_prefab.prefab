@@ -4888,8 +4888,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 1000
   m_RenderMode: 0
   m_SortMode: 0
@@ -4984,8 +4984,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1333857189
+  m_SortingLayer: 3
   m_SortingOrder: 2
   m_Sprite: {fileID: -3359638929021648335, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -9840,8 +9840,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -9909,10 +9909,10 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: 2eebf7d39e17cb74caaef503e0c996c0, type: 2}
-  m_audioClip: {fileID: 8300000, guid: b59d46a9032fb5547a2a1691c02eb3ec, type: 3}
+  m_audioClip: {fileID: 8300000, guid: fc202a1c004399f42984ac7d525907cd, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
+  m_Volume: 0.741
+  m_Pitch: 0.68
   Loop: 0
   Mute: 0
   Spatialize: 0
@@ -14837,8 +14837,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -14935,8 +14935,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1333857189
+  m_SortingLayer: 3
   m_SortingOrder: 5
   m_Sprite: {fileID: -7423723685862954803, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -19845,8 +19845,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -24715,8 +24715,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -29585,8 +29585,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -29725,7 +29725,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06bf79fa733f1b745b17cde673bda23b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damageFromClaws: 0
+  damageFromClaws: 1
 --- !u!1 &1514337846726541759
 GameObject:
   m_ObjectHideFlags: 0
@@ -34685,8 +34685,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 6
   m_RenderMode: 0
   m_SortMode: 0
@@ -39526,8 +39526,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 15
   m_RenderMode: 0
   m_SortMode: 0
@@ -39622,8 +39622,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1333857189
+  m_SortingLayer: 3
   m_SortingOrder: -11
   m_Sprite: {fileID: 7325369032427030809, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -44478,8 +44478,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -49348,8 +49348,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -54218,8 +54218,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -59134,8 +59134,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 1000
   m_RenderMode: 0
   m_SortMode: 0
@@ -64121,8 +64121,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -69037,8 +69037,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 1000
   m_RenderMode: 0
   m_SortMode: 0
@@ -73907,8 +73907,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -78777,8 +78777,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -83666,8 +83666,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -83718,7 +83718,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1514337847367512772}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0.021620879, y: -0.70677614, z: -0.021620879, w: 0.70677614}
   m_LocalPosition: {x: -3.38, y: -0.19, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -83815,8 +83815,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1333857189
+  m_SortingLayer: 3
   m_SortingOrder: 10
   m_Sprite: {fileID: -4162419300233593391, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -87642,7 +87642,7 @@ ParticleSystem:
     m_Bounce:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 0
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -87695,7 +87695,7 @@ ParticleSystem:
     m_EnergyLossOnCollision:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0
+      scalar: 1
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -87746,7 +87746,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     minKillSpeed: 0
-    maxKillSpeed: 10000
+    maxKillSpeed: 0
     radiusScale: 1
     collidesWith:
       serializedVersion: 2
@@ -87754,7 +87754,7 @@ ParticleSystem:
     maxCollisionShapes: 256
     quality: 0
     voxelSize: 0.5
-    collisionMessages: 0
+    collisionMessages: 1
     collidesWithDynamic: 1
     interiorCollisions: 0
   TriggerModule:
@@ -88746,8 +88746,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 15
   m_RenderMode: 0
   m_SortMode: 0
@@ -88842,8 +88842,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1333857189
+  m_SortingLayer: 3
   m_SortingOrder: -11
   m_Sprite: {fileID: 7325369032427030809, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -93743,8 +93743,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 53
   m_RenderMode: 0
   m_SortMode: 0
@@ -93795,7 +93795,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1514337847539423158}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0.01990733, y: -0.7068265, z: -0.01990733, w: 0.7068265}
   m_LocalPosition: {x: -0.21, y: -0.32, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -93865,7 +93865,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 24300002, guid: 2eebf7d39e17cb74caaef503e0c996c0, type: 2}
   m_audioClip: {fileID: 8300000, guid: b59d46a9032fb5547a2a1691c02eb3ec, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.411
+  m_Volume: 0.84
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -98791,8 +98791,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -103807,8 +103807,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -103859,7 +103859,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1514337847703616094}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0.0029129728, y: -0.7071008, z: 0.0029129728, w: 0.7071008}
   m_LocalPosition: {x: 0.81, y: 0.54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -108855,8 +108855,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -113744,8 +113744,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -118795,8 +118795,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 1000
   m_RenderMode: 0
   m_SortMode: 0
@@ -123684,8 +123684,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -123907,8 +123907,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1333857189
+  m_SortingLayer: 3
   m_SortingOrder: -10
   m_Sprite: {fileID: 8862724360030907826, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -123930,11 +123930,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1514337847842477060}
-  - component: {fileID: 1514337847842477061}
   - component: {fileID: 1514337847842477062}
+  - component: {fileID: 1364629169}
   m_Layer: 9
   m_Name: root
-  m_TagString: Untagged
+  m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -123954,19 +123954,6 @@ Transform:
   m_Father: {fileID: 1514337848017014902}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!135 &1514337847842477061
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1514337847842477059}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 1.5016046
-  m_Center: {x: -0.031337023, y: 0.19372153, z: 0}
 --- !u!114 &1514337847842477062
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -123980,6 +123967,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   boss: {fileID: 0}
+--- !u!58 &1364629169
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1514337847842477059}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.2986729}
+  serializedVersion: 2
+  m_Radius: 1.7023499
 --- !u!1 &1514337847856933576
 GameObject:
   m_ObjectHideFlags: 0
@@ -124056,9 +124059,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: 2eebf7d39e17cb74caaef503e0c996c0, type: 2}
-  m_audioClip: {fileID: 8300000, guid: 9a33940f50544c046974a8259efcf507, type: 3}
+  m_audioClip: {fileID: 8300000, guid: fc202a1c004399f42984ac7d525907cd, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.893
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -129015,8 +129018,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -133947,8 +133950,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -138817,8 +138820,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -138859,11 +138862,11 @@ GameObject:
   - component: {fileID: 1514337848017014904}
   m_Layer: 9
   m_Name: Boss_prefab
-  m_TagString: Untagged
+  m_TagString: Boss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1514337848017014902
 Transform:
   m_ObjectHideFlags: 0
@@ -138933,7 +138936,7 @@ MonoBehaviour:
   animator: {fileID: 0}
   countToChangeHelmetSprite: 0
   counter: 0
-  bossHealth: 150
+  bossHealth: 50
   maxBossHealth: 0
 --- !u!114 &1514337848017014904
 MonoBehaviour:
@@ -139055,8 +139058,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1333857189
+  m_SortingLayer: 3
   m_SortingOrder: 1
   m_Sprite: {fileID: 930619123765995126, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -143911,8 +143914,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -148800,8 +148803,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -148896,8 +148899,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1333857189
+  m_SortingLayer: 3
   m_SortingOrder: 2
   m_Sprite: {fileID: -3359638929021648335, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -149053,7 +149056,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06bf79fa733f1b745b17cde673bda23b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damageFromClaws: 0
+  damageFromClaws: 1
 --- !u!1 &1514337848230002867
 GameObject:
   m_ObjectHideFlags: 0
@@ -149078,7 +149081,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1514337848230002867}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0.06545565, y: -0.70407075, z: 0.06545565, w: 0.70407075}
   m_LocalPosition: {x: 0.03, y: 2.94, z: -0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -154005,8 +154008,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -158875,8 +158878,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -163745,8 +163748,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -163842,8 +163845,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1333857189
+  m_SortingLayer: 3
   m_SortingOrder: 10
   m_Sprite: {fileID: -4162419300233593391, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   m_Color: {r: 0.9339623, g: 0.32907405, b: 0.110137045, a: 0.7647059}
@@ -163869,11 +163872,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   helmetPhace:
-  - {fileID: 21300000, guid: aaf395175c434d94f898d1fb8a5d73b0, type: 3}
-  - {fileID: 21300000, guid: da1bebceea081264ba729b2be430bdb7, type: 3}
-  - {fileID: 21300000, guid: f79dd29a1a847d8489c7bda3df79a589, type: 3}
-  - {fileID: 21300000, guid: 069bbdbafcb1bd840bded8649bacabc4, type: 3}
-  - {fileID: 21300000, guid: 0868028cf099e0740830c80324a3308c, type: 3}
+  - {fileID: -4162419300233593391, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
+  - {fileID: -2138516497960881807, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
+  - {fileID: 7602905074732527461, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
+  - {fileID: 1527811717234676279, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
+  - {fileID: -8373448218653099604, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   currentSprite: 0
   crackSound: {fileID: 8300000, guid: 6a3c03a1005f9b0439f5f2a2f0c054ac, type: 3}
 --- !u!1 &1514337848467508123
@@ -167700,7 +167703,7 @@ ParticleSystem:
     m_Bounce:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 0
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -167753,7 +167756,7 @@ ParticleSystem:
     m_EnergyLossOnCollision:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0
+      scalar: 1
       minScalar: 0
       maxCurve:
         serializedVersion: 2
@@ -167804,7 +167807,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     minKillSpeed: 0
-    maxKillSpeed: 10000
+    maxKillSpeed: 0
     radiusScale: 1
     collidesWith:
       serializedVersion: 2
@@ -167812,7 +167815,7 @@ ParticleSystem:
     maxCollisionShapes: 256
     quality: 0
     voxelSize: 0.5
-    collisionMessages: 0
+    collisionMessages: 1
     collidesWithDynamic: 1
     interiorCollisions: 0
   TriggerModule:
@@ -168804,8 +168807,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 15
   m_RenderMode: 0
   m_SortMode: 0
@@ -168900,8 +168903,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 1333857189
+  m_SortingLayer: 3
   m_SortingOrder: 1
   m_Sprite: {fileID: 930619123765995126, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -173873,8 +173876,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -173942,9 +173945,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: 2eebf7d39e17cb74caaef503e0c996c0, type: 2}
-  m_audioClip: {fileID: 8300000, guid: 9a33940f50544c046974a8259efcf507, type: 3}
+  m_audioClip: {fileID: 8300000, guid: fc202a1c004399f42984ac7d525907cd, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.902
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -178889,8 +178892,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
@@ -184014,8 +184017,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 6
   m_RenderMode: 0
   m_SortMode: 0
@@ -188915,8 +188918,8 @@ ParticleSystemRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 268477959
-  m_SortingLayer: 0
+  m_SortingLayerID: -561578465
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_RenderMode: 0
   m_SortMode: 0
