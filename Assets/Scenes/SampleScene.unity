@@ -3301,6 +3301,10 @@ PrefabInstance:
       propertyPath: m_SortingLayer
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 4014886639379925120, guid: eed95d17098bb9345ae0f18ab7cc08c3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 63d5bb5818161994c94e023b44b253fc, type: 3}
     - target: {fileID: 4014886639379925121, guid: eed95d17098bb9345ae0f18ab7cc08c3, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.73
@@ -3791,7 +3795,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 24300002, guid: 2eebf7d39e17cb74caaef503e0c996c0, type: 2}
   m_audioClip: {fileID: 8300000, guid: de778cb3d240e4848a5104781a3f38d0, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.587
+  m_Volume: 0.807
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3880,6 +3884,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2077655822639771311, guid: 27e1146cb1a8a514e89cecd14ffe4aa8, type: 3}
   m_PrefabInstance: {fileID: 2077655821516952944}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &946328537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 946328528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6148d4bfb3978314c8b75839b5c08005, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: d2126d29bcaab374288b185f80b9bb77, type: 3}
+  takeDamageSound: {fileID: 8300000, guid: e809981e91f06d04fa97ecfa6d597721, type: 3}
 --- !u!1 &992715669
 GameObject:
   m_ObjectHideFlags: 0
@@ -6981,6 +6999,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2909075222870921599, guid: 27e1146cb1a8a514e89cecd14ffe4aa8, type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 946328536, guid: 27e1146cb1a8a514e89cecd14ffe4aa8, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 27e1146cb1a8a514e89cecd14ffe4aa8, type: 3}
@@ -7510,7 +7532,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -6766543432589137411, guid: 3e1e49747dd66a04c97e1dae244a2d8c, type: 3}
+  m_Sprite: {fileID: -5451738240107570557, guid: e4e2ee48f159ae748934ecdf6ae9d963, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1

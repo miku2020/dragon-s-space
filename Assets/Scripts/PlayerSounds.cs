@@ -4,11 +4,20 @@ using UnityEngine;
 using UnityEngine.Audio;
 
 public class PlayerSounds : MonoBehaviour
-{    
-    public AudioSource shoot;  
+{
+    AudioSource audioSource;
+    public AudioClip pickUpSound;
+    public AudioClip takeDamageSound;
 
-    public void ShootAudio()
+    public void itemPickupAudio()
     {
-        shoot.Play();
+        audioSource.clip = pickUpSound;
+        audioSource.Play();
+    }
+
+    public void playerTakeDamageAudio()
+    {
+        audioSource.clip = takeDamageSound;
+        audioSource.Play();
     }
 }

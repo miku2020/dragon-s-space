@@ -33,6 +33,7 @@ public class Turret_logIIc : MonoBehaviour
     public void shoot() //luo ammuksen
     {
         Instantiate(Bullet, Firepoint.position, Firepoint.rotation);
+        gameObject.GetComponent<AudioSource>().Play();
     }
 
     IEnumerator ShootTimer() //käynistää laukaus kieroksen

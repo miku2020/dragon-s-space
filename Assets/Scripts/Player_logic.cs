@@ -18,7 +18,6 @@ public class Player_logic : MonoBehaviour
     private void Start()
     {
         animator = GetComponent<Animator>();
-        audioSource = GetComponent <AudioSource>();
     }
 
     private void Update()
@@ -28,7 +27,7 @@ public class Player_logic : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            audioSource.Play();
+            gameObject.GetComponent<AudioSource>().Play();
             Instantiate(Bullet, Firepoint.position, Firepoint.rotation);
             animator.SetTrigger("Shoot");
         }

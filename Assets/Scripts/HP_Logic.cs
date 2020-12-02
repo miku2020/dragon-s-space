@@ -82,6 +82,7 @@ public class HP_Logic : MonoBehaviour
         {
             Score++;
             Debug.Log("Score: " + Score);
+            gameObject.GetComponent<PlayerSounds>().playerTakeDamageAudio();
         }
     }
 
