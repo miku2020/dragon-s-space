@@ -186,6 +186,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Turret_Zone
       objectReference: {fileID: 0}
+    - target: {fileID: 1591850533587869279, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
+      propertyPath: Bullet
+      value: 
+      objectReference: {fileID: 936752006529890330, guid: 9f79b20246a652648a0944ac057eff06, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
 --- !u!1 &42961224
@@ -443,6 +447,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Turret_Zone (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1591850533587869279, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
+      propertyPath: Bullet
+      value: 
+      objectReference: {fileID: 936752006529890330, guid: 9f79b20246a652648a0944ac057eff06, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
 --- !u!1 &167610204
@@ -3213,6 +3221,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Turret_Zone (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1591850533587869279, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
+      propertyPath: Bullet
+      value: 
+      objectReference: {fileID: 936752006529890330, guid: 9f79b20246a652648a0944ac057eff06, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
 --- !u!1001 &786535323
@@ -4310,6 +4322,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Turret_Zone (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1591850533587869279, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
+      propertyPath: Bullet
+      value: 
+      objectReference: {fileID: 936752006529890330, guid: 9f79b20246a652648a0944ac057eff06, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a61c196b388c804f81dfd67d5e1c3e6, type: 3}
 --- !u!1 &1327819600
