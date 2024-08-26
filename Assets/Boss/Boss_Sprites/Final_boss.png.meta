@@ -42,7 +42,7 @@ TextureImporter:
       213: -3359638929021648335
     second: Claw_top
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -63,6 +63,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -72,8 +73,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -94,11 +95,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -434,6 +438,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Body_closed_eyes: 6897058905725136679
+      Body_open_eyes: 8862724360030907826
+      Claw_bottom: 930619123765995126
+      Claw_top: -3359638929021648335
+      Head_1: -5165301367415918834
+      Head_2: -7423723685862954803
+      Head_3: -1162495352506524513
+      Helmet_broken_1: -2138516497960881807
+      Helmet_broken_2: 7602905074732527461
+      Helmet_broken_3: 1527811717234676279
+      Helmet_broken_4: -8373448218653099604
+      Helmet_unbroken: -4162419300233593391
+      Tentacle: 7325369032427030809
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
