@@ -9,6 +9,7 @@ public class HelmetScript : MonoBehaviour
     private SpriteRenderer spriteRenderer;    
     public int currentSprite;
     public AudioSource crackSound;
+    public AudioClip crackClip;
 
 
 
@@ -24,6 +25,13 @@ public class HelmetScript : MonoBehaviour
     {
         currentSprite++;
         spriteRenderer.sprite = helmetPhace[currentSprite];        
-        crackSound.Play();
+        if (crackSound != null)
+        {
+            crackSound.Play();
+        }
+        else if (crackClip != null)
+        {
+            AudioSource.PlayClipAtPoint(crackClip, transform.position);
+        }
     }
 }

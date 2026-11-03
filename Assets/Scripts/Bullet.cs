@@ -22,7 +22,7 @@ public class Bullet : MonoBehaviour
     void Start()
     {
        // Debug.Log("bullet is flying");
-        rb.velocity = transform.right * speed; //siirtää ammusta
+        rb.linearVelocity = transform.right * speed; //siirtää ammusta
         DestroyObjectDelayed(); //tuhoaa ammuksen tietyn matkan jälkee
     }
 

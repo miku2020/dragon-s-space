@@ -163878,7 +163878,8 @@ MonoBehaviour:
   - {fileID: 1527811717234676279, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   - {fileID: -8373448218653099604, guid: 2207be347f72ed74cbfc20309a3cfb15, type: 3}
   currentSprite: 0
-  crackSound: {fileID: 8300000, guid: 6a3c03a1005f9b0439f5f2a2f0c054ac, type: 3}
+  crackSound: {fileID: 0}
+  crackClip: {fileID: 8300000, guid: 6a3c03a1005f9b0439f5f2a2f0c054ac, type: 3}
 --- !u!1 &1514337848467508123
 GameObject:
   m_ObjectHideFlags: 0
